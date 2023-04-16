@@ -37,7 +37,7 @@ A clean, high-end, and interactive quiz assessment layout offering diverse quest
 
 ## 📸 Preview
 
-<img src="preview_1.png" width="100%" alt="online quiz Preview"><img src="preview_2.png" width="100%" alt="online quiz preview">
+<img src="preview/preview_1.png" width="100%" alt="online quiz Preview"><img src="preview/preview_2.png" width="100%" alt="online quiz preview">
 
 ---
 
