@@ -2,6 +2,8 @@
 
 A clean, high-end, and interactive quiz assessment layout offering diverse question and input formats. Designed with a modern, structured card interface and vibrant visual styles.
 
+`Documentation Update (2026): Added live deployment link -`  https://udaybodana-dev.github.io/online-quiz/
+
 ---
 
 ## ✨ Features
